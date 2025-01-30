@@ -1,0 +1,34 @@
+{
+    "manifest_version": 3,
+    "version": "1.0",
+    "name": "Big Black Strokes",
+    "description": "A Simple black paint stokes.",
+    "theme": {
+      "images": {
+        "theme_ntp_background": "images/bg.png",
+        "theme_frame": "images/frame.png"
+      },
+      "colors": {
+        "frame": [39,139,140], 
+        "toolbar": [124,124,124],
+        "tab_text": [255, 245, 255],
+        "tab_background_text": [55,45,80],
+        "bookmark_text": [200,200,200],
+        "ntp_background": [0, 0, 0],
+        "ntp_text": [36,36,36],
+        "button_background": [155,155,155],
+        "control_buttons": [34,28,46],       
+        "control_buttons_hover": [68,68,68],
+        "url": [39,139,140],
+        "tab_line": [255, 0, 0]
+      },
+      "tints": {
+         
+        "buttons": [0.8, 0.2, 0.2]
+      }
+    },
+    "icons": {
+      "128": "images/icon.png"
+    }
+  }
+  

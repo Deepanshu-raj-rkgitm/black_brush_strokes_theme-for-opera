@@ -5,8 +5,8 @@
     "description": "A Simple black paint stokes.",
     "theme": {
       "images": {
-        "theme_ntp_background": "images/bg.png",
-        "theme_frame": "images/frame.png"
+        "theme_ntp_background": "bg.png",
+        "theme_frame": "frame.png"
       },
       "colors": {
         "frame": [39,139,140], 
@@ -28,7 +28,7 @@
       }
     },
     "icons": {
-      "128": "images/icon.png"
+      "128": "icon.png"
     }
   }
   
